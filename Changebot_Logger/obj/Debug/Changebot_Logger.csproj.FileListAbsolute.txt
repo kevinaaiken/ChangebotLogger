@@ -1,0 +1,7 @@
+C:\Users\CCA030\source\kaa\Changebot_Logger\Changebot_Logger\bin\Debug\Changebot_Logger.exe.config
+C:\Users\CCA030\source\kaa\Changebot_Logger\Changebot_Logger\bin\Debug\Changebot_Logger.exe
+C:\Users\CCA030\source\kaa\Changebot_Logger\Changebot_Logger\bin\Debug\Changebot_Logger.pdb
+C:\Users\CCA030\source\kaa\Changebot_Logger\Changebot_Logger\obj\Debug\Changebot_Logger.csprojAssemblyReference.cache
+C:\Users\CCA030\source\kaa\Changebot_Logger\Changebot_Logger\obj\Debug\Changebot_Logger.csproj.CoreCompileInputs.cache
+C:\Users\CCA030\source\kaa\Changebot_Logger\Changebot_Logger\obj\Debug\Changebot_Logger.exe
+C:\Users\CCA030\source\kaa\Changebot_Logger\Changebot_Logger\obj\Debug\Changebot_Logger.pdb

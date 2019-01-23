@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Changebot_Logger", "Changebot_Logger\Changebot_Logger.csproj", "{6898B8E9-C953-4DAD-8F4D-15E57E53361C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6898B8E9-C953-4DAD-8F4D-15E57E53361C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6898B8E9-C953-4DAD-8F4D-15E57E53361C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6898B8E9-C953-4DAD-8F4D-15E57E53361C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6898B8E9-C953-4DAD-8F4D-15E57E53361C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F805F1-597D-4AAF-BA33-6F7F1808F799}
+	EndGlobalSection
+EndGlobal
